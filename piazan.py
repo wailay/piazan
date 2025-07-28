@@ -1,7 +1,4 @@
-#!/usr/bin/env python3
-"""
-Example usage of the prayer_times library.
-"""
+#!/usr/bin/env -S uv run --script
 
 import datetime
 from prayer_times.prayer_times import PrayerTimes
